@@ -1,2 +1,4 @@
 # Mod09
-Avaliação do Módulo 09
+## Avaliação do Módulo 09
+### As funções contidas em paralelo.py e assincrono.py executam Scraping em processamento Paralelo e assíncrono, respectivamente, retornando títulos das páginas raspadas
+### As função devem ser executadas em Avaliação_Mod09.ipynb para fins de visualização
